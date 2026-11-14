@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/phamkhanhduong2019-jpg/mainaabobonhub/main/BobonHub_Release.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/phamkhanhduong2707208-glitch/bobonhub-phamkhanhduong/main/script.lua"))()
